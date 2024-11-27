@@ -9,11 +9,12 @@
 - 알고리즘: Greedy, DP, 이분탐색
 
 ## 풀이목록
-|날짜|문제|유형|
-|------|---|---|
-|날짜|문제|유형|
-|날짜|문제|유형|
-|날짜|문제|유형|
+|날짜|문제|유형|성공유무|
+|------|---|---|---|
+|날짜|문제|유형|⭕️❌|
+|24.06.04|[자연수 뒤집어 배열로 만들기](https://github.com/lim-bora/Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/%EC%9E%90%EC%97%B0%EC%88%98%20%EB%92%A4%EC%A7%91%EC%96%B4%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)|구현|⭕️|
+
+
 #
 #### 참고
 - [프로그래머스:코딩테스트](https://school.programmers.co.kr/learn/challenges?order=recent&levels=1&languages=javascript)
