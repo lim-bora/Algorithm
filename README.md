@@ -15,6 +15,7 @@
 |날짜|문제|유형|성공유무|
 |------|---|---|---|
 |날짜|문제|유형|⭕️❌|
+|24.12.20|[햄버거만들기](https://github.com/lim-bora/Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/%ED%96%84%EB%B2%84%EA%B1%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)|구현과 자료구조(스택)|⭕️|
 |24.12.19|[추억점수](https://github.com/lim-bora/Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/%EC%B6%94%EC%96%B5%20%EC%A0%90%EC%88%98.md)|구현|⭕️|
 |24.12.03|[카드뭉치](https://github.com/lim-bora/Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/%EC%B9%B4%EB%93%9C%EB%AD%89%EC%B9%98.md)|구현,Greedy|⭕️|
 |24.11.28|[2016년](https://github.com/lim-bora/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1)|구현|⭕️|
