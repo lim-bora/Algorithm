@@ -15,6 +15,7 @@
 |날짜|문제|유형|성공유무|
 |------|---|---|---|
 |날짜|문제|유형|⭕️❌|
+|24.12.19|[추억점수](https://github.com/lim-bora/Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/%EC%B6%94%EC%96%B5%20%EC%A0%90%EC%88%98.md)|유형|⭕️|
 |24.12.03|[카드뭉치](https://github.com/lim-bora/Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/%EC%B9%B4%EB%93%9C%EB%AD%89%EC%B9%98.md)|구현,Greedy|⭕️|
 |24.11.28|[2016년](https://github.com/lim-bora/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1)|구현|⭕️|
 |24.09.06|[콜라 문제](https://forest-act-835.notion.site/80e2d76daf1c487f9f7838f284c0ba23?pvs=4)|유형|⭕️|
@@ -29,7 +30,6 @@
 |24.08.02|[이상한 문자 만들기](https://forest-act-835.notion.site/ef9f91b278034b69ab5f00807672ab08?pvs=4)|유형|❌|
 |24.07.29|[가운데 글자 가져오기](https://forest-act-835.notion.site/90f0c7b0f59549d28b9a6b241906769b?pvs=4)|유형|⭕️|
 |24.06.04|[자연수 뒤집어 배열로 만들기](https://github.com/lim-bora/Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/%EC%9E%90%EC%97%B0%EC%88%98%20%EB%92%A4%EC%A7%91%EC%96%B4%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)|구현|⭕️|
-
 
 
 #
